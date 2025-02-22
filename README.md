@@ -48,4 +48,4 @@
 
 **UML Class Diagram:**
 
-*(Insert UML class diagram here.  Since I'm a text-based AI, I can't directly create images.  You can use a UML diagram tool like draw.io, Lucidchart, or PlantUML to create the diagram and then embed it in your README.  Make sure the diagram clearly shows the states, the interface, and the relationships between them.)*
+
